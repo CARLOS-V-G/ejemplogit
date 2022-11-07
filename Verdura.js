@@ -1,1 +1,1 @@
-const verdura = ['acelga', 'repollo']
+const verdura = ['acelga', 'repollo','Pera']
