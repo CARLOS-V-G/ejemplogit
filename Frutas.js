@@ -1,1 +1,1 @@
-const frutas = ['Tomate', 'Naranja','Pera','manzana','durazno']
+const frutas = ['Tomate', 'Naranja','Pera','manzana','durazno','frutilla']
